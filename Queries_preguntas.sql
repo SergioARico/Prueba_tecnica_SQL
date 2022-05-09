@@ -60,4 +60,3 @@ GROUP BY
     dia
 HAVING 
 	frecuencia > 2;
--- El día con la mayor cantidad de vuelos fue el  2 de Mayo del 2021, con 6. 
